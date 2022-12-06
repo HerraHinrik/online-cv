@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Hinrik Gylfason
+    tagline: Game disigner and shader artist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: herrahinrik@gmail,com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    timezone: Stockholm Timezone
+    citizenship: Icelandic
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: https://www.linkedin.com/in/hinrik-gylfason-72bba4195/
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -32,13 +32,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Icelandic
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -199,23 +196,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: UE4 and UE5 blueprinting
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: unity
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Blender
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Shanders in Unreal and Unity
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: Substance painter 
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
